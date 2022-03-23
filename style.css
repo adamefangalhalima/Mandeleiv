@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+td{
+    font-size: 0.9vw;
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+img{
+    margin-left: 35%;
+    border-radius: 50%;
+    width: 15%;
+    }
+    .violet{
+        background-color: hsla(249, 44%, 66%, 0.8);
+    }
+    .vertf{
+        background-color: rgba(122, 209, 180, 0.781);
+    }
+    .vertc{
+        background-color: rgb(206, 245, 206);
+    }
+    .bleu{
+        background-color: rgb(134, 186, 218);
+    }
+    .jaune{
+        background-color: rgb(238, 231, 172);
+    }
+    .jaunec{
+        background-color: rgb(248, 248, 185);
+    }
+    .rosec{
+        background-color: rgb(236, 152, 152);
+    }
+    .rosef{
+        background-color: rgb(194, 108, 121);
+    }
+    .orangec{
+        background-color: rgb(241, 201, 150);
+    }
+    .orange{
+        background-color: rgb(236, 165, 142);
+    }
+   
